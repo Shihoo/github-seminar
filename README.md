@@ -1,3 +1,3 @@
 # 깃허브세미나
 
-[Joanne Park](https://github.com/Shihoo)
+[박시후](https://github.com/Shihoo)
